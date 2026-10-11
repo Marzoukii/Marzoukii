@@ -55,7 +55,7 @@ Banque, fintech et santé : des applis utilisées au quotidien, pour <b>Attijari
 ## 🧪 Labo : mes projets Kotlin & Jetpack Compose
 
 ### 🍽️ [Restou](https://github.com/Marzoukii/foodJetpackComposeMVIApp) · appli de restaurant
-Commande sur place ou en livraison, à partir d'une API gratuite de recettes (TheMealDB).
+Dans le cadre de ma montée en compétences et de ma migration vers Jetpack Compose, j'ai développé Restou de A à Z : une appli de restaurant pour commander sur place ou en livraison, à partir d'une API gratuite de recettes (TheMealDB).
 - **Client** : catégories, recherche, plat du jour, panier, paiement, suivi de la commande en temps réel
 - **Admin** : toutes les commandes en direct, changement de statut, gestion des rôles de l'équipe
 - Splash screen, connexion par e-mail ou Google, APK publié automatiquement à chaque push
